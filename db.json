@@ -1,4 +1,4 @@
 {
-  done: false,
-  text: "make sandwich"
+  "done": false,
+  "text": "make sandwich"
 }
